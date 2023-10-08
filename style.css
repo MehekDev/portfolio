@@ -1,0 +1,42 @@
+*{
+
+    background-color: #d0d6b3;
+}
+#navbar{
+    height:60px;
+    background-color:#143109;
+    
+}
+
+
+footer{
+    text-align:center;
+    background-color:#143109;
+    color:#d0d6b3;
+}
+h1{
+    color:#143109;
+}
+div{
+    background-color:#aaae7f;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height:25px;
+}
+#box1{
+    height:120px;
+    text-align:center;
+    font-weight:900;
+    font-size: large;
+}
+button{
+    background-color: #aaae7f;
+    color:#143109;
+    
+}
+a{
+    margin-right:40px;
+    margin-left:20px;
+}
+}
